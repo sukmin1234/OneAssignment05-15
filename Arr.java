@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test1 {
+public class Arr {
 
 	    public static void main(String[] args) {
 	        int[] arr = new int[10]; 
